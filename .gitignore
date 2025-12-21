@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vector store artifacts
+data/faiss_index/
+
+# Uploaded PDFs (optional, recommended)
+data/pdfs/

@@ -1,0 +1,8 @@
+python-dotenv
+langchain==0.1.20
+faiss-cpu
+pypdf
+gradio
+sentence-transformers
+torch
+langchain-openai
