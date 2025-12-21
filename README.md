@@ -1,6 +1,4 @@
-# DocuMind
 
-```markdown
 # 🧠 DocuMind
 
 **DocuMind** is a PDF Query Resolver powered by Retrieval-Augmented Generation (RAG). Upload PDFs and ask questions—DocuMind will fetch precise, grounded answers using local embeddings, eliminating hallucinations and unnecessary API costs.
