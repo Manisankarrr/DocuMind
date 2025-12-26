@@ -10,7 +10,7 @@ load_dotenv()
 
 # OpenRouter (FREE)
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
-OPENROUTER_MODEL = "mistralai/mistral-7b-instruct"
+OPENROUTER_MODEL = "z-ai/glm-4.5-air:free"
 
 # Chunking
 CHUNK_SIZE = 800
